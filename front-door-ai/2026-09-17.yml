@@ -1,0 +1,25 @@
+# Front Door AI Index — freestyle — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: freestyle
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: freestyle.vc
+  final_host: freestyle.vc
+  ownership: own
+  owner: freestyle
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 1
+  host_score: 1
+  density: 21.74
+  words: 46
+  tiers:
+    agentic: 0
+    core: 1
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 1
